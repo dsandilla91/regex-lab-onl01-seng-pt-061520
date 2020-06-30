@@ -1,5 +1,4 @@
 def starts_with_a_vowel?(word)
-array = []
 if word.match(/\w+aeiou/) = true 
 end 
 else  false 
